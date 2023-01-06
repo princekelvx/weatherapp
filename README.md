@@ -19,4 +19,4 @@ https://lambent-sable-893244.netlify.app/
 
 ### Note
 
-This repo contains the minified build because it works better with my hosting service, for full access to the code; please visit https://github.com/princekelvx/weatherapp
+This repo contains the unminified code for this project; for the minified code; please visit https://github.com/princekelvx/weather-app
